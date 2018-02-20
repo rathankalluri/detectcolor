@@ -1,6 +1,6 @@
 # detectcolor
-Py to detect colors
-
+A simple python program to detect colors in an uploaded image. I used Django Framework so that we can use it in a webview than a CLI tool.
+I have given a small color range to detect, but can be increased to work for many colors.
 
 This is to detect colors in uploaded image file
 
