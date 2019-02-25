@@ -16,3 +16,5 @@ Here are colors extracted :
 <img src="https://github.com/rathankalluri/detectcolor/blob/master/uploads/cirlces-4.jpg" width="300" style="padding:5px 5px"/>
 
 __inti__.py needs to be created..after you fork the build.
+
+This project needs some enhancement.
